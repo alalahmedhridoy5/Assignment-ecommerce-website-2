@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+/* 
+font-family: 'Lobster', cursive;
+ */
+ .buy-btn{
+background-color: indigo;
+color: white;
+ }
+.navbar-name-hightlight{
+    font-family: 'Yusei Magic', sans-serif; 
+}
+.shoes-navbar{
+    background-color: rgba(51, 6, 83, 0.993);
+    color: white;
+}
+.name-highlight{
+    color: yellowgreen;
+     
+}
+h3,h4,h5,h6{
+    font-family: 'Assistant', sans-serif;
+    font-weight: 700;
+}
+h3{
+    color: rgb(161, 161, 6);
+    
+}
+h2{
+    font-family: 'Assistant', sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+}
+h1{
+     font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+.section-title{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.shoes-card-footer{
+    border: none;
+    background-color: white;
+}
+.shoe-card-img{
+    background-color: whitesmoke;
+    margin: 20px 20px 0px 20px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px wheat;
+    
+}
+ .shoes-card{
+    box-shadow: -1px -2px 5px rgb(218, 214, 214),
+    5px 5px 5px rgb(247, 243, 243)
+    ;
+ }
+ .shopping-card{
+    box-shadow: -1px -2px 5px rgb(230, 199, 199),
+    5px 5px 5px rgb(172, 165, 165)
+    ;
+ }
+ .shopping-card img{
+   width: 100%;
+ }
+ 
